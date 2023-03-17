@@ -1,1 +1,0 @@
-# ToDoList-with-Django
